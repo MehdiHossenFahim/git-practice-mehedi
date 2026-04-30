@@ -1,11 +1,18 @@
 # Project Description
 
-This project demonstrates basic Git and GitHub operations.
+This project is a calculator-based Git practice assignment.
 
-Features:
+Implemented:
 
-- Git initialization
-- Multiple commits
-- Branching
-- Merging
-- Pushing to GitHub
+- add()
+- subtract()
+- multiply()
+
+Git concepts practiced:
+
+- init
+- add
+- commit
+- branch
+- merge
+- push
