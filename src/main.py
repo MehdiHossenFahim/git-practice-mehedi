@@ -1,5 +1,5 @@
 from datetime import date
-from utils import add, subtract, multiply
+from utils import add, subtract, multiply, divide
 
 print("Mehedi Hossen Fahim")
 print("Today's date:", date.today())
@@ -7,3 +7,4 @@ print("Today's date:", date.today())
 print("Addition:", add(5, 3))
 print("Subtraction:", subtract(10, 4))
 print("Multiplication:", multiply(4, 6))
+print("Division:", divide(10, 0))
