@@ -6,4 +6,16 @@ Mehedi Hossen Fahim
 
 ## Description
 
-This project is created for practicing Git and GitHub workflow including branching, commits, merging, and pushing code.
+This project practices:
+
+- Git initialization
+- Branching
+- Merging
+- Multiple commits
+- GitHub push
+
+## Technologies
+
+- Python
+- Git
+- GitHub
