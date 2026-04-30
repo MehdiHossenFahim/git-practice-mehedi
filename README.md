@@ -19,3 +19,7 @@ This project practices:
 - Python
 - Git
 - GitHub
+
+## Status
+
+Completed successfully.
